@@ -1,0 +1,45 @@
+# Challenge ONE-ORACLE NEXT EDUCATION: Foro Alura Challenge
+Desafios de del programa de Oracle-Alura LATAM Segundo Challenge - Desarrollo de una API REST con Java en Spring Boot 3.0.  
+
+
+## Descripción
+> Challenge ONE Sprint 04: Crea tu propia API REST con Spring Boot 3.0.
+>Apoyo de tecnicas alojadas en Trello https://trello.com/b/T7chjcPX/sprint01
+> El foro alura es un lugar donde todos los alumnos de la plataforma alura
+pueden colocar sus preguntas sobre determinados cursos, este mágico lugar está lleno de mucho aprendizaje y de colaboración entre alumnos, 
+profesores y moderadores..
+
+>Ese es nuestro desafío, vamos a replicar a nivel de back end este proceso, y para eso crearemos una API REST usando Spring.
+
+>Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) y es muy parecido con lo que desarrollamos en el Hotel Alura, 
+>pero ahora usando un framework que va a facilitar mucho nuestro trabajo un nuevo modelo de arquitectura de software conocido como REST.
+
+### Aplicación
+
+Después de descargar el proyecto, puede abrir el "**archivo ejecutable: ApiApplication.java**" con `ECLIPSE`, `Intellij IDEA` o cualquier IDE de su preferencia. Para hacer esto, en la pantalla de inicio, 
+haga clic en:
+
+- Abrir un proyecto existente (O alguna opción similar);
+
+- Busque la ubicación donde se encuentra el proyecto y seleccionelo. En caso de haberlo descargado en formato zip es necesario extraerlo antes de buscarlo.
+
+## Tecnologias utilizadas
+
+## Requisitos:
+- `Crear un nuevo tópico`
+- `Mostrar todos los tópicos creados`
+- `Mostrar un tópico específico`
+- `Actualizar un tópico`
+- `Eliminar un tópico`
+
+## Caracteristicas
+:heavy_check_mark: `Funcionalidad 1:` API con rutas implementadas siguiendo las mejores prácticas del modelo REST.
+
+:heavy_check_mark: `Funcionalidad 2:` Validaciones realizadas según reglas de negócio.
+
+:heavy_check_mark: `Funcionalidad 3:` Implementación de una base de datos para la persistencia de la información.
+
+## Agradecimientos
+
+- **ONE – Oracle Next Education**
+# foro-alura
